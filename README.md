@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Oscar Rodriguez Gimeno, nice to meet u! 😄
 
-[Stackoverflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/5843004?style=for-the-badge)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5843004?style=for-the-badge)
 <!--
 **orgimeno/orgimeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on [<img alt="Telefonica" width="40" height="32" src="https://www.telefonica.com/es/image/company_logo?img_id=4585436&t=1603748802931" />][Telefonica]
+- 🔭 I’m currently working on [<img alt="Telefonica" width="40" height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Telef%C3%B3nica_Logo.svg" />][Telefonica]
 
-💬 Contact
+## 💬 Contact
 
 [<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img alt="StackOverflow" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][StackOverflow]
 
-🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 [<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 [<img alt="Git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Git]
 [<img alt="GitHub" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 
-📊 Stats
+## 📊 Stats
 
 [![Oscar Rodriguez Gimeno GitHub Stats](https://github-readme-stats.vercel.app/api?username=orgimeno&show_icons=true&hide_border=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
