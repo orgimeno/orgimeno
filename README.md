@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 [<img alt="Angular" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][Angular]
 [<img alt="[PHP" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][Php]
 [<img alt="[Symfony" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />][Sf]
+[<img alt="[C#" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][C#]
+[<img alt="[Java" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Java]
 [<img alt="WebPack" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />][WebPack]
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
 [<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
@@ -57,6 +59,8 @@ Here are some ideas to get you started:
 [Node]: https://nodejs.org/en/
 [Php]: https://github.com/search?q=php
 [Sf]: https://symfony.com/
+[C#]: https://docs.microsoft.com/es-es/dotnet/csharp/
+[Java]: https://java.com/
 [Python]: https://github.com/search?q=python
 [Mysql]: https://www.mysql.com/
 [Git]: https://git-scm.com/
