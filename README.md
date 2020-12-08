@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 [![Oscar Rodriguez Gimeno GitHub Stats](https://github-readme-stats.vercel.app/api?username=orgimeno&show_icons=true&hide_border=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orgimeno)](https://github.com/orgimeno/github-readme-stats)
+
 <!-- Reference URLs -->
 [LinkedIn]: https://www.linkedin.com/in/%C3%B3scar-rodr%C3%ADguez-gimeno-b9bb42b4/
 [StackOverflow]: https://stackoverflow.com/users/5843004/oscar
