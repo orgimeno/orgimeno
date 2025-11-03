@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on [<img alt="Telefonica" width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Telef%C3%B3nica_Logo.svg" />][Telefonica]
+- 🔭 More than 5 years working at [<img alt="Telefonica" width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Telef%C3%B3nica_Logo.svg" />][Telefonica]
 
 ## 💬 Contact
 
